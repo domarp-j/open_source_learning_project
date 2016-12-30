@@ -2,15 +2,15 @@
 
 Share learning resources and build curricula!
 
-[https://opensourcelearning.herokuapp.com/](https://opensourcelearning.herokuapp.com/)
-
 ## Using OSLP
-1. Sign up for an account
-2. Share learning resources that you've found helpful
-3. Build a curriculum using shared resources
-4. Keep track of your progress as you study
-5. Search and discover existing resources and curricula submitted by other users
-6. Provide feedback on resources and curricula:
+1. Visit 
+[https://opensourcelearning.herokuapp.com/](https://opensourcelearning.herokuapp.com/) (May take ~20 seconds to load - Heroku Hobby Dev)
+2. Sign up for an account
+3. Share learning resources that you've found helpful
+4. Build a curriculum using shared resources
+5. Keep track of your progress as you study
+6. Search and discover existing resources and curricula submitted by other users
+7. Provide feedback on resources and curricula:
   1. Approval rating
   2. Difficulty
   3. Completion Time
