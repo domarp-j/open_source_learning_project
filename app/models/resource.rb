@@ -3,6 +3,7 @@ require 'elasticsearch/model'
 class Resource < ApplicationRecord
   include Elasticsearch::Model
   include Elasticsearch::Model::Callbacks
+  include Feedbackable
 
   validates :title, presence: true
 

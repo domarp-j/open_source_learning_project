@@ -2,6 +2,7 @@
 class Curriculum < ApplicationRecord
   include Elasticsearch::Model
   include Elasticsearch::Model::Callbacks
+  include Feedbackable
 
   has_many :curriculums_resources
   has_many :resources, through: :curriculums_resources
